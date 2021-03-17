@@ -4,7 +4,9 @@ body {
 /* .heading {
   text-align: center;
 } */
-
+#transaction-area h1 {
+  margin-bottom: 50px;
+}
 .submit-area {
   margin-top: 50px;
   padding: 40px;
